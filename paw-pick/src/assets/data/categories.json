@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Собаки", "image": "/categories/pic1.png" },
+  { "id": 2, "name": "Кошки", "image": "/categories/pic2.png" },
+  { "id": 3, "name": "Птицы", "image": "/categories/pic3.png" },
+  { "id": 4, "name": "Рыбки", "image": "/categories/pic4.png" },
+  { "id": 5, "name": "Грызуны", "image": "/categories/pic5.png" },
+  { "id": 6, "name": "Кролики", "image": "//categories/pic6.png" },
+  { "id": 7, "name": "Рептилии", "image": "/categories/pic7.png" },
+  { "id": 8, "name": "Ежи", "image": "/categories/pic8.png" }
+]

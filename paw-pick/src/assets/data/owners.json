@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Джон", "image": "/owners/owner1.png" },
+  { "id": 2, "name": "Себастьян", "image": "/owners/owner2.png" },
+  { "id": 3, "name": "Рон", "image": "/owners/owner3.png" },
+  { "id": 4, "name": "Пимстер", "image": "/owners/owner4.png" }
+]
